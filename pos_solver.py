@@ -1,12 +1,3 @@
-#!/usr/local/bin/python3
-# CSCI B551 Fall 2019
-#
-# Authors: Ishita Kumar (ishkumar@iu.edu), Hrishikesh Paul (hrpaul@iu.edu), Rushabh Shah (shah12@iu.edu)
-#
-# based on skeleton code by D. Crandall, 11/2019
-#
-# Part 1- POS Tagging
-#
 
 import random
 import math
