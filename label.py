@@ -1,15 +1,3 @@
-#!/usr/local/bin/python3
-###################################
-# CS B551 Fall 2019, Assignment #3
-# D. Crandall
-#
-# There should be no need to modify this file.
-# Edit pos_solver.py instead!
-#
-# To get started, try running: 
-#
-#   python ./label.py bc.train bc.test.tiny
-#
 
 from pos_scorer import Score
 from pos_solver import *
